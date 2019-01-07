@@ -1,4 +1,4 @@
-# Framework7 v3 React Phonegap
+# Framework7 v3 React PhoneGap template
 
 This project is inspired by Ben Compton's original work on Framework7 and React. It provides a template for an application based on the excellent [Framework7](https://framework7.io/) framework using [ReactJS](https://reactjs.org/), and all wrapped up with [PhoneGap](https://phonegap.com/).
 
