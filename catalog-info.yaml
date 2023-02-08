@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: framework7-react-phonegap
+  annotations:
+    github.com/project-slug: changamire/framework7-react-phonegap
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
